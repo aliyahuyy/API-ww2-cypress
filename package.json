@@ -1,0 +1,22 @@
+{
+  "name": "api-ww2-cypress",
+  "version": "1.0.0",
+  "description": "API test cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyahuyy/API-ww2-cypress.git"
+  },
+  "author": "alya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliyahuyy/API-ww2-cypress/issues"
+  },
+  "homepage": "https://github.com/aliyahuyy/API-ww2-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
